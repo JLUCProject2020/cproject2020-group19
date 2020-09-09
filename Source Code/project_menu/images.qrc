@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/background_images">
+        <file>res/Icon_Images/Earth.png</file>
+        <file>res/images/IRON.png</file>
+        <file>res/Icon_Images/crystal.png</file>
+        <file>res/Icon_Images/areo_siderite.png</file>
+        <file>res/images/game_bgi.png</file>
+        <file>res/images/underground_bgi.png</file>
+        <file>res/Icon_Images/Lathe.png</file>
+        <file>res/Icon_Images/Energy.png</file>
+        <file>res/Icon_Images/furnace.png</file>
+        <file>res/videos/PlanetEarth.gif</file>
+        <file>res/images/syn_bgi.png</file>
+        <file>res/Icon_Images/Inventory.png</file>
+        <file>res/Icon_Images/chest.png</file>
+        <file>res/images/syn_arrow.png</file>
+        <file>res/images/Syn_cross.png</file>
+        <file>res/Icon_Images/damaged_lathe.png</file>
+        <file>res/Icon_Images/core_2.png</file>
+        <file>res/Icon_Images/coretaq.png</file>
+        <file>res/Icon_Images/iron_icon.png</file>
+        <file>res/Icon_Images/gun.png</file>
+        <file>res/Icon_Images/crystal_sword.png</file>
+        <file>res/Icon_Images/light_sword.png</file>
+        <file>res/Icon_Images/iron_stick.png</file>
+        <file>res/Icon_Images/part.png</file>
+    </qresource>
+    <qresource prefix="/new/player_gif">
+        <file>res/videos/PlayerL.gif</file>
+        <file>res/videos/PlayerR.gif</file>
+        <file>res/videos/WalkingRight.gif</file>
+        <file>res/videos/WalkingLeft.gif</file>
+    </qresource>
+    <qresource prefix="/new/icon_image">
+        <file>res/Icon_Images/damaged_lathe.png</file>
+        <file>res/Icon_Images/crystal_sword.png</file>
+        <file>res/Icon_Images/iron_icon.png</file>
+        <file>res/Icon_Images/iron_stick.png</file>
+        <file>res/Icon_Images/light_sword.png</file>
+        <file>res/Icon_Images/crystal_icon.png</file>
+    </qresource>
+</RCC>
